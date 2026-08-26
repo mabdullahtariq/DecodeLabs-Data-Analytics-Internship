@@ -1,0 +1,15 @@
+DecodeLabs Data Analytics — Project 4: Data Visualization
+
+Goal: Create visual representations of data to communicate insights clearly.
+
+Key insights from the dataset:
+- Highest-revenue product: Chair (195620.11 total revenue).
+- Highest-revenue month: 2024-06 (68068.54 revenue).
+- Most common order status: Cancelled (250 orders).
+- Most common payment method: Online (258 orders).
+
+Visuals created:
+1. Monthly Revenue Trend — line chart for time-based trends.
+2. Revenue by Product — bar chart for product comparison.
+3. Orders by Status — bar chart for category comparison.
+4. Orders by Payment Method — pie chart for composition.
